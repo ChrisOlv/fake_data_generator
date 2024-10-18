@@ -1,0 +1,90 @@
+product_id,product_name,price,design_date
+1,Engine Block,3634,2020-03-25
+2,Transmission,4062,2016-03-11
+3,Brake Disc,2910,2010-09-28
+4,Clutch Plate,3429,2014-04-19
+5,Fuel Pump,1817,2013-08-11
+6,Turbocharger,687,2015-06-25
+7,Radiator,2768,2013-05-17
+8,Alternator,2771,2012-11-02
+9,Suspension Arm,3806,2010-06-02
+10,Exhaust Manifold,3097,2018-04-22
+11,Gearbox,795,2011-10-21
+12,Spark Plug,4602,2013-03-07
+13,Oil Filter,1770,2020-11-24
+14,Timing Belt,1017,2016-04-12
+15,Battery,3352,2020-07-04
+16,Air Filter,3244,2012-08-11
+17,Headlight,3207,2019-02-13
+18,Tail Light,3114,2023-12-09
+19,Steering Wheel,3158,2017-01-26
+20,Brake Pads,4764,2015-02-28
+21,Fuel Injector,541,2017-06-02
+22,Catalytic Converter,2733,2012-03-24
+23,Carburetor,1886,2012-12-25
+24,Drive Shaft,2228,2016-01-08
+25,Axle,1049,2022-07-30
+26,Wheel Bearing,3547,2013-01-10
+27,Windshield Wiper,1637,2013-12-01
+28,Power Steering Pump,1876,2022-03-05
+29,Shock Absorber,2686,2012-01-29
+30,Fan Belt,4676,2019-02-19
+31,Dashboard,1802,2013-01-08
+32,Rearview Mirror,1236,2015-03-27
+33,Side Mirror,4558,2015-01-28
+34,Fuel Tank,3018,2013-01-18
+35,Exhaust Pipe,565,2018-03-15
+36,Muffler,2152,2021-05-09
+37,Radiator Fan,2313,2019-03-21
+38,Air Conditioning Compressor,1838,2020-11-23
+39,Throttle Body,2540,2015-02-20
+40,Brake Caliper,1000,2014-01-12
+41,Fuel Rail,3205,2010-10-14
+42,Ignition Coil,2077,2012-04-03
+43,Differential,1667,2020-12-03
+44,Piston,1852,2018-06-26
+45,Cylinder Head,2345,2021-07-11
+46,Timing Chain,3004,2014-05-11
+47,Water Pump,2052,2010-02-23
+48,Windshield Washer Pump,3091,2017-11-26
+49,Airbag Module,4594,2015-09-06
+50,Seat Belt,2771,2019-02-04
+51,Door Handle,1185,2016-02-01
+52,Window Regulator,1025,2015-08-05
+53,Parking Brake,1767,2017-05-15
+54,Glove Box,2404,2018-11-23
+55,Cup Holder,1046,2013-03-18
+56,Headrest,2740,2020-08-23
+57,Seat Frame,1064,2018-04-28
+58,Fuel Cap,1717,2013-11-29
+59,Bumper,2063,2017-12-14
+60,Fender,3874,2017-10-22
+61,Grille,2521,2010-11-09
+62,Hood,2455,2022-11-03
+63,Trunk Lid,4917,2014-01-25
+64,Tailgate,1478,2016-03-02
+65,Roof Rack,4767,2010-07-07
+66,Spoiler,2954,2015-01-31
+67,Side Skirt,385,2018-08-23
+68,Quarter Panel,652,2019-02-04
+69,Sunroof,4513,2011-02-05
+70,Door Panel,491,2017-09-01
+71,Wheel Rim,3192,2013-02-24
+72,Tire,2502,2020-03-18
+73,Lug Nut,2323,2013-05-28
+74,Brake Rotor,3668,2013-03-24
+75,Control Arm,1338,2018-06-20
+76,Strut,3550,2011-08-04
+77,Coil Spring,209,2011-04-05
+78,Ball Joint,4352,2013-01-28
+79,Stabilizer Bar,3182,2021-12-12
+80,Steering Rack,1288,2012-04-25
+81,Steering Column,3844,2022-06-24
+82,Airbag Sensor,834,2021-08-05
+83,ABS Sensor,2988,2013-06-16
+84,Fuel Pressure Regulator,344,2022-01-26
+85,Mass Airflow Sensor,4617,2021-07-08
+86,Oxygen Sensor,2042,2021-03-05
+87,Throttle Position Sensor,2538,2012-11-18
+88,Knock Sensor,1756,2019-01-27
+89,Coolant Temperature Sensor,4839,2021-06-14
